@@ -1,1 +1,1 @@
-"# WeCycle" 
+# WeCycle
